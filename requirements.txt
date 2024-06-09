@@ -1,0 +1,4 @@
+
+gdown
+ultralytics
+opencv-python-headless
